@@ -1,5 +1,6 @@
 package com.haxalicious.randomitegems.util;
 
+// Reference Class
 public class Reference {
 	public static final String MODID = "randomitegemsreborn";
 	public static final String NAME = "Randomite Gems Reborn";
