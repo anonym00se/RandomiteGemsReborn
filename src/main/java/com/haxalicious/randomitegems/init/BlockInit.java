@@ -7,8 +7,9 @@ import com.haxalicious.randomitegems.objects.blocks.BlockBase;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
 
 public class BlockInit {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
-	public static final Block RANDOMITE_ORE = new BlockBase("randomite_ore", Material.ROCK);
+	public static final Block RANDOMITE_ORE = new BlockBase("randomite_ore", Material.ROCK, CreativeTabs.BUILDING_BLOCKS);
 }
