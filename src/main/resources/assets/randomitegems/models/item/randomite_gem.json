@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "randomitegems:items/gem_randomite"
+        "layer0": "randomitegems:items/randomite_gem"
      },
 
     "display": {
